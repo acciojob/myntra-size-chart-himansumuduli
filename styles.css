@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+table{
+	/* border:10px solid black  */
+	/* border: 2px solid red; */
+	width: 100%;
+	text-align:left;
+	  /* margin: 20px auto; */
+            border-collapse: collapse;
+            border: 1px solid black;
+	
+}
+td,th{
+	border: 2px solid black;
+}
